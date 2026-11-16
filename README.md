@@ -1,10 +1,9 @@
 # COMP 3005 - Assignment 3: PostgreSQL Student CRUD Application
 
-A Python application that connects to a PostgreSQL database to perform Create, Read, Update, and Delete (CRUD) operations on a `students` table.
+.
 
 ## Demo Video
-* **Video Demonstration:** [Insert your YouTube or Google Drive video link here]
-
+* **Video Demonstration:** 
 ## Prerequisites
 * Python 3.x
 * PostgreSQL installed and running locally
