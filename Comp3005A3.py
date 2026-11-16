@@ -16,11 +16,11 @@ from psycopg2 import Error, IntegrityError
 # DATABASE CONFIGURATION
 
 DB_CONFIG = {
-    "host": "localhost",       # 'localhost' means the database runs on this machine.
-    "port": "5432",            # 5432 is the default PostgreSQL port.
-    "database": "Comp3005A3",  # The exact name of your PostgreSQL database.
-    "user": "postgres",        # Your PostgreSQL username.
-    "password": "aazzaazz",    # Your PostgreSQL password.
+    "host": "localhost",       
+    "port": "5432",            
+    "database": "Comp3005A3",  
+    "user": "postgres",        
+    "password": "password",   
 }
 
 
