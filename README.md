@@ -1,15 +1,6 @@
 # COMP 3005 - Assignment 3: PostgreSQL Student CRUD Application
 
-.
-
-## Demo Video
-* **Video Demonstration:** 
-## Prerequisites
-* Python 3.x
-* PostgreSQL installed and running locally
-* `psycopg2-binary` library
-
-## Setup & Installation
+.## Setup & Installation
 
 1. **Install Python dependencies:**
    ```bash
